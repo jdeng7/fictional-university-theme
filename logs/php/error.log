@@ -1,0 +1,56 @@
+[29-Apr-2018 16:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 16:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 16:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 17:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 19:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 19:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
+[29-Apr-2018 20:55:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/fictional-university-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/index.php(5): pageBanner(Array)
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 34
